@@ -1,4 +1,5 @@
-# Crosshair Overlay
+# 🇬🇧 English version 
+## Crosshair Overlay
 
 ### The project creates a semi-transparent crosshair overlay on top of all windows, including fullscreen games. The crosshair does not interfere with interaction with other applications.
 
@@ -54,9 +55,9 @@ size = 6  # Crosshair size
 - Free for personal use
 
 ---
----
 
-# Crosshair Overlay
+# 🇷🇺 Русская версия
+## Crosshair Overlay
 
 ### Проект создает полупрозрачный прицел поверх всех окон, включая полноэкранные игры.  Прицел не мешает взаимодействию с другими приложениями.
 
